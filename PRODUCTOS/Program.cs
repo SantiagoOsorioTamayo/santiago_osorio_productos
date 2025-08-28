@@ -6,12 +6,12 @@ Console.WriteLine("Compila correctamente");
 public class PRODUCTOS
 {
     private int IDPRODUCTO;
-    private string? nombreproducto;
+    private string? NOMBREPRODUCTO;
 }
 public class JUGUETES : PRODUCTOS
 {
     private List<JUGUETES>? JUGUETE;
-    private DateTime? fecha_salida;
+    private DateTime? FECHA_SALIDA;
 }
 public class PERSONAS
 {
@@ -20,5 +20,5 @@ public class PERSONAS
 public class CLIENTES : PERSONAS
 {
     private List<PERSONAS>? PERSONA;
-    private string? nombre;
+    private string? NOMBRE;
 }
