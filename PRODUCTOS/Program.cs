@@ -10,7 +10,7 @@ public class PRODUCTOS
 }
 public class JUGUETES : PRODUCTOS
 {
-    private List<JUGUETES>? JUGUETE;
+    private List<PRODUCTOS>? JUGUETE;
     private DateTime? FECHA_SALIDA;
 }
 public class PERSONAS
@@ -22,3 +22,4 @@ public class CLIENTES : PERSONAS
     private List<PERSONAS>? PERSONA;
     private string? NOMBRE;
 }
+
