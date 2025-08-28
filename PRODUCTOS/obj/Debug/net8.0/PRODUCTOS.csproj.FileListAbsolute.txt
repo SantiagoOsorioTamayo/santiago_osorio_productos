@@ -1,0 +1,15 @@
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\bin\Debug\net8.0\PRODUCTOS.exe
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\bin\Debug\net8.0\PRODUCTOS.deps.json
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\bin\Debug\net8.0\PRODUCTOS.runtimeconfig.json
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\bin\Debug\net8.0\PRODUCTOS.dll
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\bin\Debug\net8.0\PRODUCTOS.pdb
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.AssemblyInfoInputs.cache
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.AssemblyInfo.cs
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.sourcelink.json
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.dll
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\refint\PRODUCTOS.dll
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.pdb
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\PRODUCTOS.genruntimeconfig.cache
+C:\Users\salak301\Desktop\EXAMEN\santiago_osorio_productos\PRODUCTOS\obj\Debug\net8.0\ref\PRODUCTOS.dll
