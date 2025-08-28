@@ -23,3 +23,8 @@ public class CLIENTES : PERSONAS
     private string? NOMBRE;
 }
 
+public class COMPRA
+{
+    private List<PERSONAS>? PERSONA;
+    private List<PRODUCTOS>? JUGUETE;
+}
